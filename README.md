@@ -1,45 +1,70 @@
-# Seth Schultz
+# Hey, I'm Seth 👋
 
-**🎖️ Veteran | 🔐 Cybersecurity Student | 🔬 Independent Researcher**
+**🎖️ Veteran | 🔐 Cybersecurity Student | 🏗️ Systems Architect**
+
+📍 USA · Building governance systems for AI · Second chapter in tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ---
 
-## 👋 About
+## 🔨 What I'm Building
 
-U.S. military veteran on a second chapter. After 15 years away from tech, I'm back — pursuing a cybersecurity degree and building AI governance systems in my spare time.
+### 🏛️ OLYMPUS
+Full-stack AI governance framework. 6,000+ graph nodes. Multi-layer service architecture with Greek mythology naming because "PYTHIA cannot recommend" is more memorable than "the inference service cannot recommend."
 
-Four months into this journey, I've architected OLYMPUS: a full-stack governance framework with 6,000+ graph nodes, multi-layer service architecture, and novel approaches to AI context management.
+- 🧠 Cognitive layer (observe/advise, never execute)
+- 📊 Observability layer (append-only truth)
+- 🔐 Data layer (secrets never leave without authorization)
+- ⚡ 4 months from zero to production
 
-💡 Recovery taught me that systems need guardrails — including AI systems.
+### 🔬 Research
+Novel approaches to AI context management. How do you make AI remember what it's *not* allowed to forget? Working prototypes. More soon.
+
+---
+
+## 🛤️ The Journey
+
+```
+2009-2024: 15 years away from tech. Life happened.
+2024:      Recovery. Mental health journey. Fresh start.
+2024:      Back to school — Cybersecurity (Freshman)
+2024:      Started building. Couldn't stop.
+2025:      4 months in: 6,000+ nodes, multi-service architecture
+```
+
+💡 **Recovery taught me that systems need guardrails — including AI systems.**
 
 ---
 
 ## 🎯 Current Focus
 
 - 🛡️ AI safety primitives
-- 🔄 Long-horizon agent reliability
 - 📋 Constraint preservation across context windows
 - 📉 Learning from failures by design
+- 🔄 Append-only decision architectures
 
 ---
 
-## 🧭 Background
+## 🎲 Random Facts
 
-- 🎖️ Veteran (U.S. Military)
-- 📚 Cybersecurity student (Freshman)
-- 💻 IT roots, returning after extended hiatus
-- 🏗️ Self-taught systems architect
-
----
-
-## 🔨 What I'm Building
-
-Novel approaches to how AI systems maintain critical constraints over extended interactions. Early-stage research with working prototypes.
-
-🚀 More to come.
+- 🎖️ U.S. Military Veteran
+- 📚 Freshman at 35+ (never too late)
+- 🧠 Self-taught systems architect
+- ☕ Powered by coffee and spite
+- 🏔️ Building for Titan, not Mars
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
-- 💼 LinkedIn: [schultzseth](https://www.linkedin.com/in/schultzseth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schultzseth/)
+
+---
+
+> *"Systems that can't justify themselves shouldn't be trusted to act."*
