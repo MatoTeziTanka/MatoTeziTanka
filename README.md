@@ -31,11 +31,11 @@ Novel approaches to AI context management. How do you make AI remember what it's
 ## 🛤️ The Journey
 
 ```
-2009-2024: 15 years away from tech. Life happened.
-2024:      Recovery. Mental health journey. Fresh start.
-2024:      Back to school — Cybersecurity (Freshman)
-2024:      Started building. Couldn't stop.
-2025:      4 months in: 6,000+ nodes, multi-service architecture
+IT career:     Data centers, consulting, the grind
+May 2025:      Hit the wall. Stepped away.
+Summer 2025:   Rehab. Got healthy. Mental health reset.
+Fall 2025:     Discovered AI. Started building.
+Now:           4 months in: 6,000+ nodes, re-branding LightSpeedUp
 ```
 
 💡 **Recovery taught me that systems need guardrails — including AI systems.**
@@ -54,7 +54,7 @@ Novel approaches to AI context management. How do you make AI remember what it's
 ## 🎲 Random Facts
 
 - 🎖️ U.S. Military Veteran
-- 📚 Freshman at 35+ (never too late)
+- 📚 Cybersecurity student (Freshman)
 - 🧠 Self-taught systems architect
 - ☕ Powered by coffee and spite
 - 🏔️ Building for Titan, not Mars
