@@ -1,70 +1,61 @@
-# Hey, I'm Seth 👋
+# Seth Schultz
 
-**🎖️ Veteran | 🔐 Cybersecurity Student | 🏗️ Systems Architect**
-
-📍 USA · Building governance systems for AI · Second chapter in tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+**Evidence Coordinator & Technology Analyst** at Operation Stand Down Rhode Island
+**Founder** of LightSpeedUp
+U.S. military veteran | Cybersecurity student | Rhode Island
 
 ---
 
-## 🔨 What I'm Building
+I build systems that work when nobody's watching.
 
-### 🏛️ OLYMPUS
-Full-stack AI governance framework. 6,000+ graph nodes. Multi-layer service architecture with Greek mythology naming because "PYTHIA cannot recommend" is more memorable than "the inference service cannot recommend."
+I'm a veteran who made a hard pivot into AI in fall 2025. Been using it since ChatGPT went public — what changed was deciding to stop being a consumer and start building. I enrolled in cybersecurity, stood up production infrastructure, and started shipping. Within four months I hit a major milestone: a self-hosted, governance-native AI stack running in production. I'm still building.
 
-- 🧠 Cognitive layer (observe/advise, never execute)
-- 📊 Observability layer (append-only truth)
-- 🔐 Data layer (secrets never leave without authorization)
-- ⚡ 4 months from zero to production
+I don't try to sound smart. I simplify things until they make sense, then build from there. Plain language isn't a style choice — it's how I test whether an idea is real. That approach led to a patent-pending context engine, a programming language, and systems that help veterans navigate VA claims. Serious ideas came from simple conversations.
 
-### 🔬 Research
-Novel approaches to AI context management. How do you make AI remember what it's *not* allowed to forget? Working prototypes. More soon.
+My rule: systems that can't justify themselves shouldn't be trusted to act.
 
 ---
 
-## 🛤️ The Journey
+## The Stack
 
-```
-IT career:     Data centers, consulting, the grind
-May 2025:      Hit the wall. Stepped away.
-Summer 2025:   Rehab. Got healthy. Mental health reset.
-Fall 2025:     Discovered AI. Started building.
-Now:           4 months in: 6,000+ nodes, re-branding LightSpeedUp
-```
+These aren't separate projects. They're organs of the same system.
 
-💡 **Recovery taught me that systems need guardrails — including AI systems.**
+**OLYMPUS** — Governance-native AI infrastructure. Self-hosted on a Dell R740 (472 GB RAM, 51 TB storage). 26 containers. Fail-closed by design — every decision logged, every mutation gated, every service accountable. Not a monitoring layer bolted on after the fact. The constraints are the architecture.
 
----
+**STYX** — State-first context engine (patent pending). Compresses meaning instead of storing raw conversation. Benchmarked against RAG and GraphRAG with [published methodology](https://github.com/MatoTeziTanka/styx-results) — results speak for themselves. The algorithm is protected; the evidence is public.
 
-## 🎯 Current Focus
+**VALOR** — AI-assisted veteran claims platform, built at OSDRI. This is where the stack meets real people. Evidence gathering, statement drafting, intake automation, eFolder analysis for veterans navigating VA disability claims. Real cases, real outcomes, daily caseload. Integrated with Neos CRM, Telnyx, and Groq.
 
-- 🛡️ AI safety primitives
-- 📋 Constraint preservation across context windows
-- 📉 Learning from failures by design
-- 🔄 Append-only decision architectures
+**Sprout** — A systems programming language. v0.7.1 with a growing runtime, grammar, and toolchain. Where this goes next isn't public yet.
+
+**ScalpStorm** — Algorithmic trading infrastructure. Dedicated execution plane in C#/.NET 8. Safety-first paper trading with multi-check preflight. Canary bots for validate-only testing before real capital touches an exchange.
+
+**Agora** — Community companion for [OpenAI's Parameter Golf](https://github.com/MatoTeziTanka/parameter-golf) competition. Live leaderboard with code-based technique classification — inspects actual submissions, not PR descriptions. Active competitor and community builder.
 
 ---
 
-## 🎲 Random Facts
+## How I Think
 
-- 🎖️ U.S. Military Veteran
-- 📚 Cybersecurity student (Freshman)
-- 🧠 Self-taught systems architect
-- ☕ Powered by coffee and spite
-- 🏔️ Building for Titan, not Mars
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schultzseth/)
+- **Plain language over jargon.** If I can't explain it simply, I don't understand it yet. Complexity is easy. Clarity is hard.
+- **First principles over convention.** If the answer is "that's how everyone does it," I ask why. Sometimes it's physics. Usually it's habit.
+- **Governance is the foundation.** Not a layer added later. Not compliance theater. The system should be able to explain itself at any point.
+- **Build the control plane.** I self-host secrets management, observability, logging, security scanning, and internal event buses. If I can't see inside it, I don't trust it.
+- **Verify before claiming.** Every assertion should carry evidence. Training data is always stale. Check the live system.
 
 ---
 
-> *"Systems that can't justify themselves shouldn't be trusted to act."*
+## Background
+
+Veteran. Worked in IT — data centers, consulting, infrastructure. Stepped back in May 2025 for health and recovery. Started college for cybersecurity October 2025. Made the pivot into building with AI that same fall.
+
+Currently helping veterans full-time at OSDRI while building the infrastructure and IP behind LightSpeedUp. The two aren't separate — the veteran work proves the systems, and the systems serve the mission.
+
+---
+
+## Links
+
+- GitHub: [@MatoTeziTanka](https://github.com/MatoTeziTanka)
+- Company: [LightSpeedUp](https://lightspeedup.com)
+- STYX Benchmarks: [styx-results](https://github.com/MatoTeziTanka/styx-results)
+- Agora: [parameter-golf](https://github.com/MatoTeziTanka/parameter-golf)
+- PROTEUS: [proteus-docker](https://github.com/MatoTeziTanka/proteus-docker)
