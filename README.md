@@ -1,8 +1,8 @@
 # Seth Schultz
 
-**Evidence Coordinator & Technology Analyst** at Operation Stand Down Rhode Island
-**Founder** of LightSpeedUp
-U.S. military veteran | Cybersecurity student | Rhode Island
+🎖️ **Evidence Coordinator & Technology Analyst** at Operation Stand Down Rhode Island
+🚀 **Founder** of LightSpeedUp
+🇺🇸 U.S. military veteran | 🔐 Cybersecurity student | 📍 Rhode Island
 
 ---
 
@@ -14,37 +14,39 @@ I don't try to sound smart. I simplify things until they make sense, then build 
 
 My rule: systems that can't justify themselves shouldn't be trusted to act.
 
+> ⚠️ **A note on AI:** I use AI tools extensively in my work — they're part of how I build, research, and ship. But every idea, decision, and direction is mine. AI is the tool. I'm the builder.
+
 ---
 
-## The Stack
+## 🏛️ The Stack
 
 These aren't separate projects. They're organs of the same system.
 
-**OLYMPUS** — Governance-native AI infrastructure. Self-hosted on a Dell R740 (472 GB RAM, 51 TB storage). 26 containers. Fail-closed by design — every decision logged, every mutation gated, every service accountable. Not a monitoring layer bolted on after the fact. The constraints are the architecture.
+⚡ **OLYMPUS** — Governance-native AI infrastructure. Self-hosted on a Dell R740 (472 GB RAM, 51 TB storage). 26 containers. Fail-closed by design — every decision logged, every mutation gated, every service accountable. Not a monitoring layer bolted on after the fact. The constraints are the architecture.
 
-**STYX** — State-first context engine (patent pending). Compresses meaning instead of storing raw conversation. Benchmarked against RAG and GraphRAG with [published methodology](https://github.com/MatoTeziTanka/styx-results) — results speak for themselves. The algorithm is protected; the evidence is public.
+🧠 **STYX** — State-first context engine (patent pending). Compresses meaning instead of storing raw conversation. Benchmarked against RAG and GraphRAG with [published methodology](https://github.com/MatoTeziTanka/styx-results) — results speak for themselves. The algorithm is protected; the evidence is public.
 
-**VALOR** — AI-assisted veteran claims platform, built at OSDRI. This is where the stack meets real people. Evidence gathering, statement drafting, intake automation, eFolder analysis for veterans navigating VA disability claims. Real cases, real outcomes, daily caseload. Integrated with Neos CRM, Telnyx, and Groq.
+🎖️ **VALOR** — AI-assisted veteran claims platform, built at OSDRI. This is where the stack meets real people. Evidence gathering, statement drafting, intake automation, eFolder analysis for veterans navigating VA disability claims. Real cases, real outcomes, daily caseload. Integrated with Neos CRM, Telnyx, and Groq.
 
-**Sprout** — A systems programming language. v0.7.1 with a growing runtime, grammar, and toolchain. Where this goes next isn't public yet.
+🌱 **Sprout** — A systems programming language. v0.7.1 with a growing runtime, grammar, and toolchain. Where this goes next isn't public yet.
 
-**ScalpStorm** — Algorithmic trading infrastructure. Dedicated execution plane in C#/.NET 8. Safety-first paper trading with multi-check preflight. Canary bots for validate-only testing before real capital touches an exchange.
+📈 **ScalpStorm** — Algorithmic trading infrastructure. Dedicated execution plane in C#/.NET 8. Safety-first paper trading with multi-check preflight. Canary bots for validate-only testing before real capital touches an exchange.
 
-**Agora** — Community companion for [OpenAI's Parameter Golf](https://github.com/MatoTeziTanka/parameter-golf) competition. Live leaderboard with code-based technique classification — inspects actual submissions, not PR descriptions. Active competitor and community builder.
-
----
-
-## How I Think
-
-- **Plain language over jargon.** If I can't explain it simply, I don't understand it yet. Complexity is easy. Clarity is hard.
-- **First principles over convention.** If the answer is "that's how everyone does it," I ask why. Sometimes it's physics. Usually it's habit.
-- **Governance is the foundation.** Not a layer added later. Not compliance theater. The system should be able to explain itself at any point.
-- **Build the control plane.** I self-host secrets management, observability, logging, security scanning, and internal event buses. If I can't see inside it, I don't trust it.
-- **Verify before claiming.** Every assertion should carry evidence. Training data is always stale. Check the live system.
+🏟️ **Agora** — Community companion for [OpenAI's Parameter Golf](https://github.com/MatoTeziTanka/parameter-golf) competition. Live leaderboard with code-based technique classification — inspects actual submissions, not PR descriptions. Active competitor and community builder.
 
 ---
 
-## Background
+## 🧭 How I Think
+
+- 💬 **Plain language over jargon.** If I can't explain it simply, I don't understand it yet. Complexity is easy. Clarity is hard.
+- 🔬 **First principles over convention.** If the answer is "that's how everyone does it," I ask why. Sometimes it's physics. Usually it's habit.
+- 🏗️ **Governance is the foundation.** Not a layer added later. Not compliance theater. The system should be able to explain itself at any point.
+- 🔧 **Build the control plane.** I self-host secrets management, observability, logging, security scanning, and internal event buses. If I can't see inside it, I don't trust it.
+- ✅ **Verify before claiming.** Every assertion should carry evidence. Training data is always stale. Check the live system.
+
+---
+
+## 📖 Background
 
 Veteran. Worked in IT — data centers, consulting, infrastructure. Stepped back in May 2025 for health and recovery. Started college for cybersecurity October 2025. Made the pivot into building with AI that same fall.
 
@@ -52,10 +54,10 @@ Currently helping veterans full-time at OSDRI while building the infrastructure 
 
 ---
 
-## Links
+## 🔗 Links
 
-- GitHub: [@MatoTeziTanka](https://github.com/MatoTeziTanka)
-- Company: [LightSpeedUp](https://lightspeedup.com)
-- STYX Benchmarks: [styx-results](https://github.com/MatoTeziTanka/styx-results)
-- Agora: [parameter-golf](https://github.com/MatoTeziTanka/parameter-golf)
-- PROTEUS: [proteus-docker](https://github.com/MatoTeziTanka/proteus-docker)
+- 🐙 GitHub: [@MatoTeziTanka](https://github.com/MatoTeziTanka)
+- 🌐 Company: [LightSpeedUp](https://lightspeedup.com)
+- 📊 STYX Benchmarks: [styx-results](https://github.com/MatoTeziTanka/styx-results)
+- 🏟️ Agora: [parameter-golf](https://github.com/MatoTeziTanka/parameter-golf)
+- 🐳 PROTEUS: [proteus-docker](https://github.com/MatoTeziTanka/proteus-docker)
